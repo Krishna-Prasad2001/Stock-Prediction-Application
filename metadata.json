@@ -1,0 +1,5 @@
+{
+  "name": "Copy of AI Stock Predictor",
+  "description": "An intuitive stock prediction application designed for beginners. It uses AI to analyze stocks and provides simple, actionable insights (Buy, Hold, Sell) based on your personal risk tolerance.",
+  "requestFramePermissions": []
+}
